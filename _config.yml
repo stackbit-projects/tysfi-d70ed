@@ -5,7 +5,7 @@ google_analytics_id: ''
 homepage:
   show_call_box: true
 logo:
-  mobile: images/logo/logo-mobile.svg
+  mobile: images/friendly-maple.svg
   desktop: images/tysfi.svg
   desktop_height: 36px
 footer:
