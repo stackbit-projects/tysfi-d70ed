@@ -3,7 +3,7 @@ permalink: pretty
 title: tysfi
 google_analytics_id: ''
 homepage:
-  show_call_box: true
+  show_call_box: false
 footer:
   copyright_text: >-
     Free Jekyll theme by <a class="zerostatic"
