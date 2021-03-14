@@ -6,7 +6,7 @@ homepage:
   show_call_box: true
 logo:
   mobile: images/logo/logo-mobile.svg
-  desktop: images/logo/logo.svg
+  desktop: images/tysfi.svg
   desktop_height: 36px
 footer:
   copyright_text: >-
