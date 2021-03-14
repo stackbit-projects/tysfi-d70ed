@@ -44,3 +44,5 @@ exclude:
   - LICENSE
   - README.md
 url: ''
+logo:
+  desktop_height: lorem-ipsum
